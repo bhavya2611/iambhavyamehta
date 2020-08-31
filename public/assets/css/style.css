@@ -1102,6 +1102,17 @@ section {
   }
 }
 
+@media (max-width: 475px) {
+  #hero .hero-container {
+    margin-left: 125vw;
+  }
+
+  #hero {
+    width: 225vw;
+    margin-left: -125vw;
+  }
+}
+
 /* Custom Styles */
 
 .services .icon-box {
