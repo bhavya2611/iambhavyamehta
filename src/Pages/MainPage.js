@@ -1,5 +1,6 @@
 import React from "react";
 import Typing from "react-typing-animation";
+import about from "../assets/img/about.jpg";
 
 const MainPage = () => {
   return (
@@ -11,11 +12,7 @@ const MainPage = () => {
       <header id="header">
         <div className="d-flex flex-column">
           <div className="profile">
-            <img
-              src="../assets/img/about.jpg"
-              alt=""
-              className="img-fluid rounded-circle"
-            />
+            <img src={about} alt="" className="img-fluid rounded-circle" />
             <h1 className="text-light">
               <a href="index.html">Bhavya Mehta</a>
             </h1>
@@ -117,11 +114,7 @@ const MainPage = () => {
 
             <div className="row">
               <div className="col-lg-4">
-                <img
-                  src="../assets/img/about.jpg"
-                  className="img-fluid"
-                  alt=""
-                />
+                <img src={about} className="img-fluid" alt="" />
               </div>
               <div
                 style={{ paddingLeft: "5px" }}
