@@ -80,7 +80,7 @@ const MainPage = () => {
           <div>
             <p>
               I am{" "}
-              <Typing>
+              <Typing loop={true}>
                 <span>a DEVELOPER</span>
                 <Typing.Delay ms={500} />
                 <Typing.Backspace count={11} />
@@ -90,7 +90,7 @@ const MainPage = () => {
                 <Typing.Backspace count={12} />
                 <Typing.Delay ms={500} />
                 <span>an EXPLORER</span>
-                <Typing.Delay ms={500} />
+                <Typing.Reset count={0} delay={500} />
               </Typing>
             </p>
           </div>
@@ -116,10 +116,7 @@ const MainPage = () => {
               <div className="col-lg-4">
                 <img src={about} className="img-fluid" alt="" />
               </div>
-              <div
-                style={{ paddingLeft: "5px" }}
-                className="col-lg-8 pt-4 pt-lg-0 content"
-              >
+              <div className="col-lg-8 pt-4 pt-lg-0 content about-info-div">
                 <h3>Full Stack Web Developer &amp; Frontend Engineer.</h3>
                 <p className="font-italic">
                   I have coded for over 5670 hours in JavaScript. My experience
