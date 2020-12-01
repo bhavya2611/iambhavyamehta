@@ -243,13 +243,14 @@ const MainPage = () => {
               <div className="col-lg-6">
                 <div className="progress">
                   <span className="skill">
-                    HTML <i className="val">100%</i>
+                    HTML <i className="val">75%</i>
                   </span>
                   <div className="progress-bar-wrap">
                     <div
                       className="progress-bar"
                       role="progressbar"
-                      aria-valuenow="100"
+                      style={{width:"75%"}}
+                      aria-valuenow="75"
                       aria-valuemin="0"
                       aria-valuemax="100"
                     ></div>
@@ -258,13 +259,14 @@ const MainPage = () => {
 
                 <div className="progress">
                   <span className="skill">
-                    CSS <i className="val">90%</i>
+                    CSS <i className="val">70%</i>
                   </span>
                   <div className="progress-bar-wrap">
                     <div
                       className="progress-bar"
                       role="progressbar"
-                      aria-valuenow="90"
+                      style={{width:"70%"}}
+                      aria-valuenow="70"
                       aria-valuemin="0"
                       aria-valuemax="100"
                     ></div>
@@ -279,6 +281,7 @@ const MainPage = () => {
                     <div
                       className="progress-bar"
                       role="progressbar"
+                      style={{width:"75%"}}
                       aria-valuenow="75"
                       aria-valuemin="0"
                       aria-valuemax="100"
@@ -290,13 +293,14 @@ const MainPage = () => {
               <div className="col-lg-6">
                 <div className="progress">
                   <span className="skill">
-                    React <i className="val">80%</i>
+                    React <i className="val">70%</i>
                   </span>
                   <div className="progress-bar-wrap">
                     <div
                       className="progress-bar"
                       role="progressbar"
-                      aria-valuenow="80"
+                      style={{width:"70%"}}
+                      aria-valuenow="70"
                       aria-valuemin="0"
                       aria-valuemax="100"
                     ></div>
@@ -305,13 +309,14 @@ const MainPage = () => {
 
                 <div className="progress">
                   <span className="skill">
-                    Node <i className="val">90%</i>
+                    Node <i className="val">60%</i>
                   </span>
                   <div className="progress-bar-wrap">
                     <div
                       className="progress-bar"
                       role="progressbar"
-                      aria-valuenow="90"
+                      style={{width:"60%"}}
+                      aria-valuenow="60"
                       aria-valuemin="0"
                       aria-valuemax="100"
                     ></div>
@@ -326,6 +331,7 @@ const MainPage = () => {
                     <div
                       className="progress-bar"
                       role="progressbar"
+                      style={{width:"55%"}}
                       aria-valuenow="55"
                       aria-valuemin="0"
                       aria-valuemax="100"
@@ -419,6 +425,7 @@ const MainPage = () => {
                         Working as a Coding facilitator for The Apprentice
                         Project, an NGO. I teach coding to kids from a public
                         school.
+                        </li>
                         <li>Served as a trek leader for Treks and Trails.</li>
                         <li>
                           Have built a few websites. (gathaevents.com,
@@ -433,7 +440,6 @@ const MainPage = () => {
                           Published a React Component on NPM -
                           https://www.npmjs.com/package/customizable-progress-bar
                         </li>
-                      </li>
                     </ul>
                   </p>
                 </div>
@@ -518,7 +524,7 @@ const MainPage = () => {
                     </ul>
                   </p>
                 </div>
-                <div className="resume-item">
+                {/* <div className="resume-item">
                   <h4>Data Analyst Intern</h4>
                   <h5>Jul 2017 - Dec 2017</h5>
                   <p>
@@ -546,6 +552,7 @@ const MainPage = () => {
                     </ul>
                   </p>
                 </div>
+               */}
               </div>
             </div>
           </div>
@@ -961,9 +968,8 @@ const MainPage = () => {
             <div className="section-title">
               <h2>Contact</h2>
               <p>
-                If you are in Pune. let's catch up over a coffee, if not let's
-                get on a call and plan to where we will have coffee one we are
-                in the same city.
+                If you are in Pune, let's catch up over a coffee. If not let's
+                get on a call and plan, when and where we can catch up over a coffee.
               </p>
             </div>
 
