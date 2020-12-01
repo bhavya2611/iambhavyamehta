@@ -131,7 +131,7 @@ const MainPage = () => {
                       {/* <!-- <li><i className="icofont-rounded-right"></i> <strong>Birthday:</strong> 26 November 1995</li> --> */}
                       <li>
                         <i className="icofont-rounded-right"></i>{" "}
-                        <strong>Website:</strong> www.bhavyamehta.com
+                        <strong>Website:</strong> https://bhavya2611.github.io/iambhavyamehta/
                       </li>
                       <li>
                         <i className="icofont-rounded-right"></i>{" "}
@@ -231,11 +231,11 @@ const MainPage = () => {
               <h2>Skills</h2>
               <p>
                 I don't feel my technical skills are the only thing that I bring
-                to the table. Three things that set me apart are the ability to
+                to the table. Three things that set me apart are, the ability to
                 learn quickly, a knack for solving problems / building
-                solutions, and lastly how smoothly I can adapt to new
+                solutions, and lastly I can smoothly adapt to new
                 environments. Also, I am a cheerful guy, you'd always find me in
-                a group, with everyone laughing their hearts out.
+                a group, laughing my heart out.
               </p>
             </div>
 
