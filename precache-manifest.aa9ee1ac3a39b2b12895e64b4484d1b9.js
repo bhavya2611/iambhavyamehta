@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b3e9fe9fb6ab57a51163eb152eb8e56c",
+    "revision": "16f04305ee47c065f7d02acabf2015f6",
     "url": "/iambhavyamehta/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/iambhavyamehta/static/css/2.3cf5d70f.chunk.css"
   },
   {
-    "revision": "bf56969443cdf2c14d72",
+    "revision": "7cdacbba289ff1018096",
     "url": "/iambhavyamehta/static/css/main.7e397d16.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/iambhavyamehta/static/js/2.2ee934f1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bf56969443cdf2c14d72",
-    "url": "/iambhavyamehta/static/js/main.ac7be83f.chunk.js"
+    "revision": "7cdacbba289ff1018096",
+    "url": "/iambhavyamehta/static/js/main.9cfa1741.chunk.js"
   },
   {
     "revision": "be1a1d7d45a0c6970e31",
