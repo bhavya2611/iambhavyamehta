@@ -205,7 +205,7 @@ const MainPage = () => {
               <div className="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
                 <div className="count-box">
                   <i className="icofont-live-support"></i>
-                  <span data-toggle="counter-up">2611</span>
+                  <span data-toggle="counter-up">720</span>
                   <p>
                     <strong>Hours Of Freelance Work</strong>
                   </p>
