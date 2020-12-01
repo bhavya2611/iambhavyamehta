@@ -1,1 +1,1 @@
-## Bhavya Mehta's personal Website
+## Bhavya Mehta's Personal Website
