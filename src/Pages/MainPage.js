@@ -348,7 +348,7 @@ const MainPage = () => {
             <div className="section-title">
               <h2>
                 Resume{" "}
-                <a target="_blank" href="./assets/Bhavya_Mehta_Resume.pdf">
+                <a target="_blank" href="./assets/Bhavya_Resume.pdf">
                   <i className="icofont-download download"></i>
                 </a>
               </h2>
