@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/iambhavyamehta/static/css/main.5f361e03.chunk.css",
-    "main.js": "/iambhavyamehta/static/js/main.13792c08.chunk.js",
-    "main.js.map": "/iambhavyamehta/static/js/main.13792c08.chunk.js.map",
+    "main.css": "/iambhavyamehta/static/css/main.7e397d16.chunk.css",
+    "main.js": "/iambhavyamehta/static/js/main.ac7be83f.chunk.js",
+    "main.js.map": "/iambhavyamehta/static/js/main.ac7be83f.chunk.js.map",
     "runtime-main.js": "/iambhavyamehta/static/js/runtime-main.d1ff5913.js",
     "runtime-main.js.map": "/iambhavyamehta/static/js/runtime-main.d1ff5913.js.map",
-    "static/js/2.eb4c6792.chunk.js": "/iambhavyamehta/static/js/2.eb4c6792.chunk.js",
-    "static/js/2.eb4c6792.chunk.js.map": "/iambhavyamehta/static/js/2.eb4c6792.chunk.js.map",
+    "static/css/2.3cf5d70f.chunk.css": "/iambhavyamehta/static/css/2.3cf5d70f.chunk.css",
+    "static/js/2.2ee934f1.chunk.js": "/iambhavyamehta/static/js/2.2ee934f1.chunk.js",
+    "static/js/2.2ee934f1.chunk.js.map": "/iambhavyamehta/static/js/2.2ee934f1.chunk.js.map",
     "index.html": "/iambhavyamehta/index.html",
-    "precache-manifest.fc8422003d68607af727dc2e35622bda.js": "/iambhavyamehta/precache-manifest.fc8422003d68607af727dc2e35622bda.js",
+    "precache-manifest.bcf78fcf26ad6d1f80079885c5286ad4.js": "/iambhavyamehta/precache-manifest.bcf78fcf26ad6d1f80079885c5286ad4.js",
     "service-worker.js": "/iambhavyamehta/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/iambhavyamehta/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.eb4c6792.chunk.js.LICENSE.txt": "/iambhavyamehta/static/js/2.eb4c6792.chunk.js.LICENSE.txt",
-    "static/media/about.jpg": "/iambhavyamehta/static/media/about.a14ce825.jpg"
+    "static/css/2.3cf5d70f.chunk.css.map": "/iambhavyamehta/static/css/2.3cf5d70f.chunk.css.map",
+    "static/css/main.7e397d16.chunk.css.map": "/iambhavyamehta/static/css/main.7e397d16.chunk.css.map",
+    "static/js/2.2ee934f1.chunk.js.LICENSE.txt": "/iambhavyamehta/static/js/2.2ee934f1.chunk.js.LICENSE.txt",
+    "static/media/about.jpg": "/iambhavyamehta/static/media/about.a14ce825.jpg",
+    "static/media/styles.css": "/iambhavyamehta/static/media/hero-bg.b69702b9.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d1ff5913.js",
-    "static/js/2.eb4c6792.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.13792c08.chunk.js"
+    "static/css/2.3cf5d70f.chunk.css",
+    "static/js/2.2ee934f1.chunk.js",
+    "static/css/main.7e397d16.chunk.css",
+    "static/js/main.ac7be83f.chunk.js"
   ]
 }
